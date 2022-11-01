@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "535293650670",
+    "project_id": "streaming-platform-abc3d",
+    "storage_bucket": "streaming-platform-abc3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535293650670:android:c62e41cb315e680dfcf5ff",
+        "android_client_info": {
+          "package_name": "com.example.streaming_platform"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "535293650670-sgc7l5k79iininfuicfjrtrlcb6fcvbf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCc2G9W_zHRO0BylEeT9UbuivD_BpWiPaA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "535293650670-sgc7l5k79iininfuicfjrtrlcb6fcvbf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
